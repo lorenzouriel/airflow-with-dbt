@@ -9,6 +9,7 @@ def segunda_dag_com_python_operator():
     """
     minha primeira Pipipeline
     """
+    
     @task
     def primeira_atividade():
         print("Primeira atividade iniciada")

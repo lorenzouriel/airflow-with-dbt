@@ -6,10 +6,12 @@ from time import sleep
 @dag(start_date=datetime(2024, 3, 23), 
      schedule="@daily", 
      catchup=False)
+
 def quarta_dag_com_python_operator():
     """
     minha primeira Pipipeline
     """
+
     @task
     def primeira_atividade():
         print("Primeira atividade iniciada")

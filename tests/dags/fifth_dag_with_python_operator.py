@@ -10,7 +10,8 @@ def quinta_dag_com_python_operator():
     """
     minha primeira Pipipeline
     """
-    @task(owner="luciano", retries=3)
+
+    @task(owner="lorenzo", retries=3)
     def primeira_atividade():
         """
         essa e minha primeira atividade
