@@ -1,5 +1,5 @@
 ﻿# duckdb_operator
-pandas==1.3.4
+duckdb==0.10.0
 airflow-provider-duckdb==0.2.0
 astro-sdk-python[duckdb]==1.6.1
 apache-airflow-providers-postgres
