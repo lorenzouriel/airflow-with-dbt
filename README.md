@@ -1,4 +1,4 @@
-# ETL with PostgreSQL, DuckDB and Data Contracts with Airflow and Astro CLI
+# ETL with PostgreSQL, DuckDB and Data Contracts Orchestrated by Airflow and Astro CLI
 
 ![architecture](/docs/imgs/architecture.png)
 
@@ -79,7 +79,7 @@ Another strong point of the solution is the creation of a custom operator in Air
 
 > **PORTUGUÊS**
 
-# ETL com PostgreSQL, DuckDB e Contratos de Dados com Airflow e Astro CLI
+# ETL com PostgreSQL, DuckDB e Contratos de Dados Orquestrada por Airflow e Astro CLI
 
 ![architecture](/docs/imgs/architecture.png)
 
