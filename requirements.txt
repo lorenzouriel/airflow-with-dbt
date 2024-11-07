@@ -1,11 +1,10 @@
 ﻿# duckdb_operator
-duckdb==0.10.0
-airflow-provider-duckdb==0.2.0
-astro-sdk-python[duckdb]==1.6.1
-apache-airflow-providers-postgres
+# duckdb==0.10.0
+# airflow-provider-duckdb==0.2.0
+# astro-sdk-python[duckdb]==1.6.1
+# apache-airflow-providers-postgres
 
 # mvc_to_airflow
 pydantic==2.9.2
 python-dotenv==1.0.1
-requests==2.32.3
-astro-run-dag # This package is needed for the astro run command. It will be removed before a deploy
+requests==2.32.3
