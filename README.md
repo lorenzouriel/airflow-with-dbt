@@ -56,7 +56,7 @@ astro deploy --dags
 ```
 
 ## Explaining ETL
-**1. Extract:** The first step involves extracting data from an external API. This extraction process uses Python to obtain the data and prepare it for transformation.
+**1. Extract:** The first step involves extracting data from an external API. This extraction process uses Python and Requests to obtain the data and prepare it for transformation.
 
 **2. Transform:** The extracted data undergoes a transformation also carried out in Python. At this stage, data can be cleaned, filtered, validated against data contracts and prepared to be loaded into the next PostgreSQL.
 
@@ -137,7 +137,7 @@ astro deploy --dags
 ```
 
 ## Explicando o ETL
-**1. Extract:** A primeira etapa envolve a extração de dados de uma API externa. Esse processo de extração utiliza Python para obter os dados e prepará-los para transformação.
+**1. Extract:** A primeira etapa envolve a extração de dados de uma API externa. Esse processo de extração utiliza Python e a Requests para obter os dados e prepará-los para transformação.
 
 **2. Transform:** Os dados extraídos passam por uma transformação também realizada em Python. Nessa etapa, os dados podem ser limpos, filtrados, validados em contratos de dados e preparados para serem carregados no próximo PostgreSQL.
 
